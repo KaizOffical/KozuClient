@@ -28,18 +28,19 @@ If you are using Kozu Client v0.3 or older, it is supporting every OS.
 - [ ] Linux
 
 ## (SOME POPULAR) MODS & FEATURES
-- Launcher helps you run faster, config & sync client easier <br>
-- OptiFine
-- Freelook 
-- Item physics
-- Custom color mod
-- TNT Timer
-- Cool notification system (developed from internet source)
-- Block Overlay
-- Better Chat GUI
-- Cosmetics
-- Time Changer
-- Potion Status
+- [ ] Launcher helps you run faster, config & sync client easier <br>
+- [x] OptiFine
+- [x] Freelook 
+- [x] Item physics
+- [x] Custom color for MODS TEXT
+- [x] TNT Timer
+- [x] Cool notification system (developed from internet source)
+- [x] Block Overlay
+- [x] Better Chat GUI
+- [x] Cosmetics
+- [x] Time Changer
+- [x] Potion Status
+- [ ] Database (to display client icon, display cape in multiplayer, ...)
 
 ## Support
 If you need help? Go to [our discord server](https://discord.gg/QsHXM7v7wq) (this is my team server but also Kozu Client server), then find Forum Channel `help-client` and create new post with tag `help`. You also can suggest and report bugs here. Kozu Team will reply you soon!
