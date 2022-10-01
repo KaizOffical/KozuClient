@@ -28,7 +28,8 @@ If you are using Kozu Client v0.3 or older, it is supporting every OS.
 - [ ] Linux
 
 ## (SOME POPULAR) MODS & FEATURES
-- [ ] Launcher helps you run faster, config & sync client easier <br>
+- [ ] Launcher helps you run faster, config & sync client easier
+- [ ] Database (to display client icon, display cape in multiplayer, ...)
 - [x] OptiFine
 - [x] Freelook 
 - [x] Item physics
@@ -40,7 +41,7 @@ If you are using Kozu Client v0.3 or older, it is supporting every OS.
 - [x] Cosmetics
 - [x] Time Changer
 - [x] Potion Status
-- [ ] Database (to display client icon, display cape in multiplayer, ...)
+- [x] Better Font 
 
 ## Support
 If you need help? Go to [our discord server](https://discord.gg/QsHXM7v7wq) (this is my team server but also Kozu Client server), then find Forum Channel `help-client` and create new post with tag `help`. You also can suggest and report bugs here. Kozu Team will reply you soon!
