@@ -16,16 +16,12 @@ And Kozu is self-written source client, I just watched tutorials and followed an
 </table>
 
 ## How to use?
-- <b>Under version 0.3: </b> <br>
-Download `.zip` file in release. Create new folder and name it `KozuClient`. Extract downloaded file to the new folder, then move the folder to `%appdata%/.minecraft/versions/`
-- <b>From version 0.4: </b> <br>
-For v0.4 or later, we already published Launcher so just install the Launcher, open it and click the button `Launch`
+Download `.zip` file in release. Then put that file in `%appdata%/.minecraft/versions`. Then right click, select Extract to `Kozu Client v....`. Open any Minecraft Launcher and launch the version (Kozu Client almost on the top of the version list)
 
-## Support OS (>= v0.4)
-If you are using Kozu Client v0.3 or older, it is supporting every OS.
+## Support OS
 - [x] Windows
-- [ ] MacOS
-- [ ] Linux
+- [x] MacOS
+- [x] Linux
 
 ## (SOME POPULAR) MODS & FEATURES
 - [ ] Launcher helps you run faster, config & sync client easier
@@ -42,6 +38,9 @@ If you are using Kozu Client v0.3 or older, it is supporting every OS.
 - [x] Time Changer
 - [x] Potion Status
 - [x] Better Font 
+- [x] Cool animations and UI
+- [x] Play time counter
+- [x] And lots of more....
 
 ## Support
 If you need help? Go to [our discord server](https://discord.gg/QsHXM7v7wq) (this is my team server but also Kozu Client server), then find Forum Channel `help-client` and create new post with tag `help`. You also can suggest and report bugs here. Kozu Team will reply you soon!
